@@ -1,1 +1,1 @@
-# Repo untuk semuo poject Cuy university
+# Repo untuk semua poject Cuy university
